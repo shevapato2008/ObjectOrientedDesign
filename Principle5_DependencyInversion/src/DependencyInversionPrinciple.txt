@@ -1,0 +1,6 @@
+Dependency Inversion Principle [Wikipedia]
+
+
+Take Away Message from This Tutorial:
+Depend on Abstract Classes and Interfaces because they change less than concrete classes.
+
