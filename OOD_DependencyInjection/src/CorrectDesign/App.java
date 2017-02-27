@@ -7,6 +7,7 @@ public class App {
 			// This is the dependency injection.
 			// We create a vehicle with a small engine injected.
 			// We could have more stuff to inject. E.g. tire, windshield, roof, and so on.
+		
 		raceCar.crankIgnition();
 	}
 
